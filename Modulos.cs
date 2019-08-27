@@ -321,7 +321,7 @@ namespace Fazer_Codigo_CFGCLI
         {
             if (posicao < 6492)
             {
-                lista[posicao] = "cfgcli -f -s " + lista[posicao];
+                lista[posicao] = "cfgcli -f -s " + "InternetGatewayDevice." + lista[posicao];
             }
         }
 
