@@ -1,7 +1,7 @@
 # Obter comandos ONU Nokia g-140w-c apartir de um script.
 
 O codigo ajudará a obter comandos para a ONU da Nokia, partir do XML dela.
-OBS: O XML é obtido apartir do acesso de um usuario, e entrando normalmente no ENDEREÇOIP/dumpdatamodel.cgi.
+OBS.: O XML é obtido apartir do acesso de um usuario, e entrando normalmente no ENDEREÇOIP/dumpdatamodel.cgi.
 Apartir disso você conseguirar obter o codigo XML. 
 
 # O que tem dentro de cada .cs
