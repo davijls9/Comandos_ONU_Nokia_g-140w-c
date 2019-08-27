@@ -10,6 +10,10 @@ Dentro do Program.cs, tem a parte para rodar o codigo modularizado. ele será mo
 
 Dentro do arquivo Modulos.cs, será encontrado uma parte para leitura de arquivo. Esse arquivo de leitura, será o xml de onde terar que editar o diretorio para que possa conseguir ler eles. Após a leiturar do arquivo ele será rodado, para que seja varrido, fazendo que após isso, gerer outro arquivo. 
 
+Os arquivos de Resultado e de leitura do XML está como nome:
+ <blockquote> dumpdatamodel.txt </blockquote>
+ <blockquote> Arquivo_Com_Comandos.txt </blockquote>
+
 
 # OBSERVAÇÃO
 
