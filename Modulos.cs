@@ -338,7 +338,7 @@ namespace Fazer_Codigo_CFGCLI
                         if (aux[i].Substring(0, 2) == "v=")
                         {
                             string[] aux2 = aux[i].Split("=");
-                            lista[posicao] = "cfgcli -f -s " + lista[posicao] + " " + aux2[1];
+                            lista[posicao] = lista[posicao] + " " + aux2[1];
                         }
                     }
                     catch (Exception)
