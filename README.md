@@ -6,13 +6,13 @@ Apartir disso você conseguirar obter o codigo XML.
 
 # O que tem dentro de cada .cs
 
-Dentro do Program.cs, tem a parte para rodar o codigo modularizado. ele será monstrado em console (Escolhido por conta de desempenho), com isso obterar na tela, os comandos em um arquivo no debug dele.
+Dentro do <a href="https://github.com/DaviJ9-JLS/Comandos_ONU_Nokia_g-140w-c/blob/master/Program.cs/"> Program.cs</a>, tem a parte para rodar o codigo modularizado. ele será monstrado em console (Escolhido por conta de desempenho), com isso obterar na tela, os comandos em um arquivo no debug dele.
 
-Dentro do arquivo Modulos.cs, será encontrado uma parte para leitura de arquivo. Esse arquivo de leitura, será o xml de onde terar que editar o diretorio para que possa conseguir ler eles. Após a leiturar do arquivo ele será rodado, para que seja varrido, fazendo que após isso, gerer outro arquivo. 
+Dentro do arquivo <a href="https://github.com/DaviJ9-JLS/Comandos_ONU_Nokia_g-140w-c/blob/master/Modulos.cs/"> Modulos.cs</a>, será encontrado uma parte para leitura de arquivo. Esse arquivo de leitura, será o xml de onde terar que editar o diretorio para que possa conseguir ler eles. Após a leiturar do arquivo ele será rodado, para que seja varrido, fazendo que após isso, gerer outro arquivo. 
 
 Os arquivos de Resultado e de leitura do XML está como nome:
- <blockquote> dumpdatamodel.txt </blockquote>
- <blockquote> Arquivo_Com_Comandos.txt </blockquote>
+ <blockquote> <a href="https://github.com/DaviJ9-JLS/Comandos_ONU_Nokia_g-140w-c/blob/master/dumpdatamodel.txt/"> dumpdatamodel.txt </a> </blockquote>
+ <blockquote> <a href="https://github.com/DaviJ9-JLS/Comandos_ONU_Nokia_g-140w-c/blob/master/Arquivo_Com_Comandos.txt/"> Arquivo_Com_Comandos.txt </a> </blockquote>
 
 
 # OBSERVAÇÃO
